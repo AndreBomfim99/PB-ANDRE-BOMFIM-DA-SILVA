@@ -1,0 +1,19 @@
+Data atual do sistema: 2024/10/04 15:27
+
+Data do primeiro registro de venda: 19/03/2023
+
+Data do último registro de venda: 14/03/2023
+
+Total de itens diferentes vendidos: 20
+
+id,produto,quantidade,preco,data
+26,Manga,14,3.8,19/03/2023
+15,Cebola,11,3.97,17/03/2023
+53,Morango,12,1.57,19/03/2023
+37,Banana,14,6.57,13/03/2023
+30,Laranja,8,9.04,15/03/2023
+29,Abacaxi,12,4.54,12/03/2023
+54,Brócolis,11,2.03,16/03/2023
+25,Cenoura,4,9.75,12/03/2023
+3,Melão,13,6.5,20/03/2023
+16,Couve,4,8.87,20/03/2023

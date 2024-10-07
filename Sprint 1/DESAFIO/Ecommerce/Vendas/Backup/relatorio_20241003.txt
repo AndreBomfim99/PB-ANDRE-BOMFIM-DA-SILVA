@@ -1,0 +1,19 @@
+Data atual do sistema: 2024/10/03 15:27
+
+Data do primeiro registro de venda: 08/04/2023
+
+Data do último registro de venda: 10/04/2023
+
+Total de itens diferentes vendidos: 14
+
+id,produto,quantidade,preco,data
+20,Chile,7,3.5,08/04/2023
+11,Itália,6,6.22,06/04/2023
+21,França,11,3.77,10/04/2023
+13,Colômbia,13,4.98,10/04/2023
+6,China,12,6.58,07/04/2023
+12,Argentina,12,7.25,09/04/2023
+10,México,3,8.02,09/04/2023
+16,Canadá,8,3.05,14/04/2023
+9,Alemanha,7,4.51,22/04/2023
+23,Brasil,4,2.97,05/04/2023

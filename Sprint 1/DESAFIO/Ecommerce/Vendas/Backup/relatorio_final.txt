@@ -1,0 +1,64 @@
+ ______________________________________________________________________
+*                      RELATÓRIO FINAL DE VENDAS                       *
+*______________________________________________________________________*
+
+Data atual do sistema: 06/10/2024
+
+Data do primeiro registro de venda: 01/01/2023
+
+Data do último registro de venda: 10/04/2023
+
+Total de itens diferentes vendidos: 117
+
+
+10 primeiros produtos vendidos no relatorio_20241001.txt
+id,produto,quantidade,preco,data
+1,camiseta,2,29.90,01/01/2023
+2,calça,5,80.00,02/01/2023
+3,sapato,3,100.00,03/01/2023
+4,meia,20,5.00,04/01/2023
+5,cinto,8,15.00,05/01/2023
+6,camisa,7,40.00,06/01/2023
+7,bermuda,6,50.00,07/01/2023
+8,tênis,4,120.00,08/01/2023
+9,bone,12,10.00,09/01/2023
+10,casaco,2,150.00,10/01/2023
+
+10 primeiros produtos vendidos no relatorio_20241002.txt
+id,produto,quantidade,preco,data
+17,Leite condensado,3,3.42,21/04/2023
+20,Goma xantana,8,6.68,15/04/2023
+13,Corante alimentício,6,4.51,21/04/2023
+18,Açúcar,4,5.07,20/04/2023
+5,Manteiga,8,4.91,11/04/2023
+14,Coco ralado,4,7.07,19/04/2023
+15,Chocolate branco,8,3.82,16/04/2023
+3,Adoçante,5,7.14,05/04/2023
+12,Fermento,6,3.79,10/04/2023
+4,Cacau em pó,9,7.59,20/04/2023
+
+10 primeiros produtos vendidos no relatorio_20241003.txt
+id,produto,quantidade,preco,data
+20,Chile,7,3.5,08/04/2023
+11,Itália,6,6.22,06/04/2023
+21,França,11,3.77,10/04/2023
+13,Colômbia,13,4.98,10/04/2023
+6,China,12,6.58,07/04/2023
+12,Argentina,12,7.25,09/04/2023
+10,México,3,8.02,09/04/2023
+16,Canadá,8,3.05,14/04/2023
+9,Alemanha,7,4.51,22/04/2023
+23,Brasil,4,2.97,05/04/2023
+
+10 primeiros produtos vendidos no relatorio_20241004.txt
+id,produto,quantidade,preco,data
+26,Manga,14,3.8,19/03/2023
+15,Cebola,11,3.97,17/03/2023
+53,Morango,12,1.57,19/03/2023
+37,Banana,14,6.57,13/03/2023
+30,Laranja,8,9.04,15/03/2023
+29,Abacaxi,12,4.54,12/03/2023
+54,Brócolis,11,2.03,16/03/2023
+25,Cenoura,4,9.75,12/03/2023
+3,Melão,13,6.5,20/03/2023
+16,Couve,4,8.87,20/03/2023

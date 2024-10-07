@@ -1,0 +1,19 @@
+Data atual do sistema: 2024/10/02 15:27
+
+Data do primeiro registro de venda: 21/04/2023
+
+Data do último registro de venda: 06/04/2023
+
+Total de itens diferentes vendidos: 17
+
+id,produto,quantidade,preco,data
+17,Leite condensado,3,3.42,21/04/2023
+20,Goma xantana,8,6.68,15/04/2023
+13,Corante alimentício,6,4.51,21/04/2023
+18,Açúcar,4,5.07,20/04/2023
+5,Manteiga,8,4.91,11/04/2023
+14,Coco ralado,4,7.07,19/04/2023
+15,Chocolate branco,8,3.82,16/04/2023
+3,Adoçante,5,7.14,05/04/2023
+12,Fermento,6,3.79,10/04/2023
+4,Cacau em pó,9,7.59,20/04/2023
