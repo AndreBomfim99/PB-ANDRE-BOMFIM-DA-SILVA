@@ -34,6 +34,9 @@
 
 * [Sprint 1](Sprint%201/) : Nesta sprint aprendi sobre comandos Linux, construção de scripts, comandos Git, segurança da informação. Também aprendi sobre o que o CompassUOL espera de nós, como será o ritmo de trabalho e as exigências que nos serão exigidas nas entregas dos desafio.
 
+* [Sprint 2](Sprint%202/) : Nesta sprint aprendi conceitos de Data & Analytics, e executei 16 exercícios sobre comandos SQL e fiz um curso de AWS Partner Sales Accreditation Business. Como desafio, normalizei uma base de dados e elaborei tabelas relacionais e dimensionais a partir dela.
+
+
 
 
 
