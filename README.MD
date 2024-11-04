@@ -36,6 +36,7 @@
 
 * [Sprint 2](Sprint%202/) : Nesta sprint aprendi conceitos de Data & Analytics, e executei 16 exercícios sobre comandos SQL e fiz um curso de AWS Partner Sales Accreditation Business. Como desafio, normalizei uma base de dados e elaborei tabelas relacionais e dimensionais a partir dela.
 
+* [Sprint 3](Sprint%203/) : Nesta sprint aprendi a linguagem de programação Python e como ela pode ser aplicada para Data & Analytics. Fiz 25 exercícios de python com níveis de dificuldade diversos. Como desafio processei e analisei um arquivo csv e através do python gerei gráficos dessa análise.
 
 
 
