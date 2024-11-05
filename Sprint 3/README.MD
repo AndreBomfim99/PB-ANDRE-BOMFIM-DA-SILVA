@@ -190,22 +190,6 @@ Etapa 4 [etapa-4.txt](/Sprint%203/EXERCICIOS/Secao_5a/etapa-4.txt)
 
 Etapa 5 [etapa-5.txt](/Sprint%203/EXERCICIOS/Secao_5a/etapa-5.txt)
 
-## 1.4 Exercícios Seção 5b:
-
-### Exercício realizado com um único script executando todas as etapas
-
-SCRIPT 1: [script1.py](/Sprint%203/EXERCICIOS/Secao_5b/script1.py)
-
-Etapa 1 [etapa-1.txt](/Sprint%203/EXERCICIOS/Secao_5b/etapa-1.txt)
-
-Etapa 2 [etapa-2.txt](/Sprint%203/EXERCICIOS/Secao_5b/etapa-2.txt)
-
-Etapa 3 [etapa-3.txt](/Sprint%203/EXERCICIOS/Secao_5b/etapa-3.txt)
-
-Etapa 4 [etapa-4.txt](/Sprint%203/EXERCICIOS/Secao_5b/etapa-4.txt)
-
-Etapa 5 [etapa-5.txt](/Sprint%203/EXERCICIOS/Secao_5b/etapa-5.txt)
-
 # 2. Evidências
 
 No desafio da sprint 3 foi pedido a realização de uma análise através da linguagem python do dataset googleplaystore.csv. Essa análise envolveu a limpeza dos dados e a realização de gráficos e tabelas. O desenvolvimento de todos os passos da realização do desafio está descrito neste readme próprio do desafio. Na imagem abaixo uma amostra dos gráficos que foram produzidos no desafio. 
