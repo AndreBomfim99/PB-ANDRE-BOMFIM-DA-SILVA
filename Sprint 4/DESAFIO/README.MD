@@ -147,6 +147,10 @@
 
 - Resposta: [Dockerfile.carguru](/Sprint%204/DESAFIO/DESAFIO/Dockerfile.carguru) e [Dockerfile.mascarar](/Sprint%204/DESAFIO/DESAFIO/Dockerfile.mascarar)
 
+- Script python de mascaramento Hash
+
+- Resposta: [Script de mascaramento Hash](/Sprint%204/DESAFIO/DESAFIO/mascarar.py)
+
 2. Comandos utilizados para execução do container
 
 - Resposta:
