@@ -6,7 +6,7 @@ Na Seção 2 da trilha fiz 7 exercícios com python onde exercitei funções de 
 
 Como desafio da sprint, tive que lidar com ambiente isolado executando dois scripts python em contêineres Docker, utilizando o Dockerfile para automatizar o processo. 
 
-Também fiz um curso de AWS Partner XXXXXXXXXXXXXXXXXX
+Também fiz um curso da AWS Partner Accreditation Technical
 
 # 1. Exercícios:
 
@@ -65,7 +65,7 @@ O desafio nesta sprint 4 consiste em usar o Dockerfile para configuração e ins
 
 # 3. Certificados
 
-#### Certificado do curso AWS Partner: AWS Partner: Accreditation Technical
+#### Certificado do curso AWS Partner: AWS Partner Accreditation Technical
 
 ![Certificado](/Sprint%204/CERTIFICADOS/AWS%20Partner%20Accreditation%20Technical.png)
 
