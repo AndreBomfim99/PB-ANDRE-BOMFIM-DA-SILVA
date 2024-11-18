@@ -38,6 +38,6 @@
 
 * [Sprint 3](Sprint%203/) : Nesta sprint aprendi a linguagem de programação Python e como ela pode ser aplicada para Data & Analytics. Fiz 25 exercícios de python com níveis de dificuldade diversos. Como desafio processei e analisei um arquivo csv e através do python gerei gráficos dessa análise.
 
-
+* [Sprint 4](Sprint%204/) : Nesta sprint aprendi aprendi mais sobre a linguagem de programação Python, como funções de primeira classe, de alta ordem, lambda, map, filter e reduce. Como desafio realizei a execução de dois scripts em python através de contêineres Docker.
 
 
