@@ -40,4 +40,7 @@
 
 * [Sprint 4](Sprint%204/) : Nesta sprint aprendi aprendi mais sobre a linguagem de programação Python, como funções de primeira classe, de alta ordem, lambda, map, filter e reduce. Como desafio realizei a execução de dois scripts em python através de contêineres Docker.
 
+* [Sprint 5](Sprint%205/) : Nesta sprint aprendi mais sobre os como funcionam os diversos serviços que a AWs oferece. Pratiquei e exercitei através do CloudQuest situações onde usarei os recursos da nuvem AWS. Estudei mais sobre o serviço S3 praticando com um exercício e realizei um desafio com esse serviço.
+
+
 
