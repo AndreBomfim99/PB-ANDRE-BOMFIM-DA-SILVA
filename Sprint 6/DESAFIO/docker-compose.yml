@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    container_name: container_andre_bomfim
+    volumes:
+      - volume_andre_bomfim:/data
+    environment:
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+      - AWS_SESSION_TOKEN=${AWS_SESSION_TOKEN}
+      - AWS_REGION=${AWS_REGION}
+    command: >
+      sh -c "cp /app/movies.csv /data/movies.csv &&
+             cp /app/series.csv /data/series.csv &&
+             python envia.py"
+volumes:
+  volume_andre_bomfim:

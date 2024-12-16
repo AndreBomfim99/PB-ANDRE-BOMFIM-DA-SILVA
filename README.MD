@@ -42,5 +42,9 @@
 
 * [Sprint 5](Sprint%205/) : Nesta sprint aprendi mais sobre os como funcionam os diversos serviços que a AWs oferece. Pratiquei e exercitei através do CloudQuest situações onde usarei os recursos da nuvem AWS. Estudei mais sobre o serviço S3 praticando com um exercício e realizei um desafio com esse serviço.
 
+* [Sprint 6](Sprint%206/) : Nesta sprint me aprofundei mais no serviços da AWS, e conheci novos serviços como Athena, Glue, EMR, Redshift, Quicksight, além de cursos sobre Fundamentals of Analytics on AWS e Serveless Analytics. Como desafio realizei uma ingestão de dados em um bucket S3 utilizando de python e docker.
+
+
+
 
 
