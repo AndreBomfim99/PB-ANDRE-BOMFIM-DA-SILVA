@@ -44,6 +44,8 @@
 
 * [Sprint 6](Sprint%206/) : Nesta sprint me aprofundei mais no serviços da AWS, e conheci novos serviços como Athena, Glue, EMR, Redshift, Quicksight, além de cursos sobre Fundamentals of Analytics on AWS e Serveless Analytics. Como desafio realizei uma ingestão de dados em um bucket S3 utilizando de python e docker.
 
+* [Sprint 7](/Sprint%207/) : Nesta sprint tomei conhecimento do framework Spark e como ele ajuda na produtividade de processamento de dados. Também utilizei serviços da AWS, fazendo exercícios com o Glue e no desafio usando Lambda. Realizei também um exercício utilizando a API do TMDB.
+
 
 
 
