@@ -1,7 +1,16 @@
 # DESAFIO SPRINT 7
 
-### O objetivo do desafio da Sprint 7 
+### O objetivo do desafio da Sprint 7 é a execução da segunda etapa das 5 etapas que realizarei até  o final do programa. Essa etapa consiste em fazer a ingestão da API do TMDB via uma função Lambda, essa API vai complementar as informações contidas nos arquivos movies.csv e series.csv trabalhados na sprint anterior.
 
+### As perguntas que elaborei na sprint anterior foram reformuladas. Pesquisei mais a fundo sobre o que a API do TMDB poderia oferecer, e como dados sobre receita e orçamento de séries não estão contidos nele, achei por bem eliminar por enquanto as perguntas que eu faria nesse sentido. Caso eu ache uma API ou database que supra essas informações, planejarei se posso voltar nesse assunto sem precisar refazer alguma etapa. As perguntas são:
+
+### 1. Comparar o desempenho de Drama/Romance em Filmes vs. Séries
+### Objetivo: determinar se Drama/Romance têm melhor desempenho em filmes ou séries.
+### Como vou fazer: 
+    • Nota Média (notaMedia): Avaliação das pessoas.
+    • Popularidade (popularity): dado fornecido pela API TMDB.
+    • Número de Votos (numeroVotos): Engajamento do público.
+    • Calcular médias por métrica: comparar a média de cada métrica entre filmes e séries.
 
 ### Etapa 1: Por já ter feito exercício sobre Lambda na sprint anterior, sei que preciso de que o ambiente onde o script será executado, tenha suas dependências atendidas. Por isso acabei identificando esse detalhe aqui, ou seja, para executar o Lambda preciso das dependências do `tmdbv3api`. Comecei criando localmente um container Docker. Nesse container vou executar os comandos que preciso para executar essa parte da tarefa.
 
