@@ -14,9 +14,7 @@ descobrir = Discover()
 cliente_s3 = boto3.client('s3')
 
 def manipulador_lambda(evento, contexto):
-    """
-    Função principal para iniciar o processamento de dados.
-    """
+   
     bucket = 'data-lake-andre-bomfim'
     generos = {"Drama": 18, "Romance": 10749}  # 18 e 10749 são os IDs de gênero do TMDB
     anos = [2022, 2023]  
@@ -31,9 +29,7 @@ def manipulador_lambda(evento, contexto):
             salvar_no_s3(series, bucket, ano, genero, 'serie')
 
 def buscar_dados(api_descobrir, ano, id_genero, tipo_midia):
-    """
-    Busca dados da API TMDB para o ano e gênero especificados.
-    """
+  
     print(f"Buscando dados para o gênero ID {id_genero} no ano {ano}. Tipo: {tipo_midia}.")
     resultados = []
     pagina = 1
@@ -71,9 +67,7 @@ def buscar_dados(api_descobrir, ano, id_genero, tipo_midia):
     return resultados
 
 def salvar_no_s3(dados, bucket, ano, genero, tipo_midia):
-    """
-    Salva os dados em lotes no bucket S3.
-    """
+   
     if not dados:
         print("Nenhum dado para salvar no S3.")
         return
