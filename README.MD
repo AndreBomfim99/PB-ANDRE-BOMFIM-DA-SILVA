@@ -46,6 +46,10 @@
 
 * [Sprint 7](/Sprint%207/) : Nesta sprint tomei conhecimento do framework Spark e como ele ajuda na produtividade de processamento de dados. Também utilizei serviços da AWS, fazendo exercícios com o Glue e no desafio usando Lambda. Realizei também um exercício utilizando a API do TMDB.
 
+* [Sprint 8](/Sprint%208/) : Nesta sprint assisti um breve curso de AWS Analytics. Fiz três exercícios de geração de dados aleatórios, e mais um utilizando Spark para manipular dataframes com SparkSQL. Como desafio, realizei a estapa 3 das 5 etapas, onde construi a camada Trusted integrando os dados anteriormente extraidos.
+
+
+
 
 
 
