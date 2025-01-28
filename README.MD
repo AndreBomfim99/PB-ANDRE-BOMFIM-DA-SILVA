@@ -48,7 +48,7 @@
 
 * [Sprint 8](/Sprint%208/) : Nesta sprint assisti um breve curso de AWS Analytics. Fiz três exercícios de geração de dados aleatórios, e mais um utilizando Spark para manipular dataframes com SparkSQL. Como desafio, realizei a estapa 3 das 5 etapas, onde construi a camada Trusted integrando os dados anteriormente extraidos.
 
-
+* [Sprint 9](/Sprint%209/) : Nesta sprint me concentrei exclusivamente no desafio. Elaborei melhor as questões que vou abordar na minha análise, refinei os dados e fiz a modelagem final dos destes.
 
 
 
