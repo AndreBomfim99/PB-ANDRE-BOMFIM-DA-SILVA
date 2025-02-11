@@ -1,0 +1,76 @@
+CREATE OR REPLACE VIEW refined.view_movies_series AS
+SELECT 
+    id_csv AS id,
+    titulo_pincipal_csv AS titulo_principal,
+    titulo_original_csv AS titulo_original,
+    ano_lancamento_csv AS ano_lancamento,
+    tempo_minutos_csv AS tempo_minutos,
+    genero_csv AS genero,
+    nota_media_csv AS nota_media,
+    numero_votos_csv AS numero_votos,
+    genero_artista_csv AS genero_artista,
+    personagem_csv AS personagem,
+    nome_artista_csv AS nome_artista,
+    ano_nascimento_csv AS ano_nascimento,
+    ano_falecimento_csv AS ano_falecimento,
+    profissao_csv AS profissao,
+    titulos_mais_conhecidos_csv AS titulos_mais_conhecidos,
+    processed_date_csv AS processed_date,
+    'Filme' AS tipo,
+
+    id_tmdb,
+    name_tmdb,
+    origin_country_tmdb AS origin_country,
+    original_language_tmdb AS original_language,
+    overview_tmdb AS overview,
+    popularity_tmdb AS popularity,
+    release_date_tmdb AS release_date,
+    vote_average_tmdb AS vote_average,
+    vote_count_tmdb AS vote_count,
+    ano_lancamento_tmdb,
+    mes_lancamento_tmdb,
+    dia_lancamento_tmdb,
+    runtime_tmdb,  
+    processed_date_tmdb,
+    origem_tmdb
+
+FROM tab_movies_comum
+
+UNION ALL
+
+SELECT 
+    id_csv AS id,
+    titulo_pincipal_csv AS titulo_principal,
+    titulo_original_csv AS titulo_original,
+    ano_lancamento_csv AS ano_lancamento,
+    tempo_minutos_csv AS tempo_minutos,
+    genero_csv AS genero,
+    nota_media_csv AS nota_media,
+    numero_votos_csv AS numero_votos,
+    genero_artista_csv AS genero_artista,
+    personagem_csv AS personagem,
+    nome_artista_csv AS nome_artista,
+    ano_nascimento_csv AS ano_nascimento,
+    ano_falecimento_csv AS ano_falecimento,
+    profissao_csv AS profissao,
+    titulos_mais_conhecidos_csv AS titulos_mais_conhecidos,
+    processed_date_csv AS processed_date,
+    'Série' AS tipo,
+
+    id_tmdb,
+    name_tmdb,
+    ARRAY_JOIN(origin_country_tmdb, ', ') AS origin_country, 
+    original_language_tmdb AS original_language,
+    overview_tmdb AS overview,
+    popularity_tmdb AS popularity,
+    release_date_tmdb AS release_date,
+    vote_average_tmdb AS vote_average,
+    vote_count_tmdb AS vote_count,
+    ano_lancamento_tmdb,
+    mes_lancamento_tmdb,
+    dia_lancamento_tmdb,
+    NULL AS runtime_tmdb, 
+    processed_date_tmdb,
+    origem_tmdb
+
+FROM tab_series_comum;
